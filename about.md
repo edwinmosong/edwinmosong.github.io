@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Just a normal guy with normal thoughts. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I follow e-sports (CSGO and LoL), Game of Thrones, The Flash TV show on The CW, and spend a lot of time reading about programming and tech gadgets as well as improving my programming skills.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](edwin.mo@live.com)
