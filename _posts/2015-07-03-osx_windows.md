@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: OS X and Windows
+---
 
 # OS X and Windows
 
