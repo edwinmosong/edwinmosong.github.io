@@ -3,8 +3,6 @@ layout: post
 title: OS X and Windows
 ---
 
-# OS X and Windows
-
 <div style="text-align: center">
 <img src="../images/win_vs_osx.jpg">
 </div>
